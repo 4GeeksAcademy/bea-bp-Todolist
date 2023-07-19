@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    margin-top: 150px;
+}
+
+ul li{
+    border: 1px solid gainsboro;
+    list-style: none;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    border: none;
+    width: 100%;
+}
